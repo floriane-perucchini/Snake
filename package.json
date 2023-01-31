@@ -1,0 +1,19 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "Snake Game",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floriane-perucchini/Snake.git"
+  },
+  "author": "Floriane PERUCCHINI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/floriane-perucchini/Snake/issues"
+  },
+  "homepage": "https://github.com/floriane-perucchini/Snake#readme"
+}
